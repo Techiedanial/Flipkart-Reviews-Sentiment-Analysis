@@ -16,8 +16,9 @@ The Flipkart Reviews Sentiment Analysis project aims to analyze customer feedbac
 # Dataset
 The dataset used in this project is flipkart_data.csv, which contains customer reviews and ratings from Flipkart. It includes the following columns:
 
-review: Text of the customer review
-rating: Numerical rating given by the customer
+Review: Text of the customer review
+
+Rating: Numerical rating given by the customer
 
 # Libraries Used
 The following Python libraries are used in this project:
